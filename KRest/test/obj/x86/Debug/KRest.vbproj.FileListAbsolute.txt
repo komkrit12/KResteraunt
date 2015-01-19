@@ -1,0 +1,48 @@
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\bin\Debug\KRest.exe
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\bin\Debug\KRest.pdb
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\bin\Debug\KRest.xml
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.class_conn.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Food.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Foodtype.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.frm_emp.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Menu2.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Resources.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Report.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Typedep.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.vbproj.GenerateResource.Cache
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.exe
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.xml
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.pdb
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.result.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Menudesine.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Menu1.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.Table.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.PayOrder.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\KRest.login.resources
+C:\Users\komkrit\Desktop\KRest\test\bin\Debug\KRest.exe.config
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.exe
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.xml
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.pdb
+C:\Users\komkrit\Desktop\KRest\test\bin\Debug\KRest.exe
+C:\Users\komkrit\Desktop\KRest\test\bin\Debug\KRest.pdb
+C:\Users\komkrit\Desktop\KRest\test\bin\Debug\KRest.xml
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.class_conn.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Food.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Foodtype.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.frm_emp.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.login.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Menu1.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Menu2.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Resources.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.PayOrder.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Report.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.result.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Table.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Typedep.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.vbproj.GenerateResource.Cache
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\RdlCompile.cache
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\RdlCompile.compiled
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.vbprojResolveAssemblyReference.cache
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.re_invoince.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.Menudesign.resources
+C:\Users\komkrit\Desktop\KRest\test\obj\x86\Debug\KRest.update.resources

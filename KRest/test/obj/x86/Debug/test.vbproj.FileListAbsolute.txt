@@ -1,0 +1,72 @@
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\bin\Debug\test.exe
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\bin\Debug\test.pdb
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\bin\Debug\test.xml
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.day1.resources
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.Resources.resources
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.exe
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.xml
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.pdb
+C:\Users\komkrit\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.frm2.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.exe
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.xml
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.pdb
+C:\Users\komkrit\Desktop\งานรูป\test\test\bin\Debug\test.exe
+C:\Users\komkrit\Desktop\งานรูป\test\test\bin\Debug\test.pdb
+C:\Users\komkrit\Desktop\งานรูป\test\test\bin\Debug\test.xml
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.Resources.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.class_conn.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.frm_emp.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.Menu.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.Menu2.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.Food.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Debug\test.Report.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.exe
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.xml
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.pdb
+C:\Users\komkrit\Desktop\New folder (3)\test\test\bin\Debug\test.exe
+C:\Users\komkrit\Desktop\New folder (3)\test\test\bin\Debug\test.pdb
+C:\Users\komkrit\Desktop\New folder (3)\test\test\bin\Debug\test.xml
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.class_conn.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.Food.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.frm_emp.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.Menu.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.Menu2.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.Resources.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.Report.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.Typedep.resources
+C:\Users\komkrit\Desktop\New folder (3)\test\test\obj\x86\Debug\test.Foodtype.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.exe
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.xml
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.pdb
+D:\New folder (6)\New folder (3)\test\test\bin\Debug\test.exe
+D:\New folder (6)\New folder (3)\test\test\bin\Debug\test.pdb
+D:\New folder (6)\New folder (3)\test\test\bin\Debug\test.xml
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.class_conn.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Food.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Foodtype.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.frm_emp.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Menu.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Menu2.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Resources.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Report.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Typedep.resources
+D:\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.exe
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.xml
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.pdb
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\bin\Debug\test.exe
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\bin\Debug\test.pdb
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\bin\Debug\test.xml
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.class_conn.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Food.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Foodtype.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.frm_emp.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Menu.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Menu2.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Resources.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Report.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.Typedep.resources
+C:\Users\komkrit\Desktop\New folder (7)\New folder (6)\New folder (3)\test\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache

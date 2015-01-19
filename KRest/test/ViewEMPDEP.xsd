@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ViewEMPDEP" targetNamespace="http://tempuri.org/ViewEMPDEP.xsd" xmlns:mstns="http://tempuri.org/ViewEMPDEP.xsd" xmlns="http://tempuri.org/ViewEMPDEP.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="KRestConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="KRestConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.KRest.My.MySettings.GlobalReference.Default.KRestConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="view_empdepTableAdapter" GeneratorDataComponentClassName="view_empdepTableAdapter" Name="view_empdep" UserDataComponentName="view_empdepTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="KRestConnectionString (MySettings)" DbObjectName="KRest.dbo.view_empdep" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT EMPDep, EMName, EMLName, EMIDCard, EMHouseNumber, EMMOO, EMSoi, EMRoad, EMDistrict, EMCity, EMProvince, EMPostCode, EMPhone, EMPassword, EMID, EMBirth, EMDatein, DepName FROM dbo.view_empdep</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EMPDep" DataSetColumn="EMPDep" />
+              <Mapping SourceColumn="EMName" DataSetColumn="EMName" />
+              <Mapping SourceColumn="EMLName" DataSetColumn="EMLName" />
+              <Mapping SourceColumn="EMIDCard" DataSetColumn="EMIDCard" />
+              <Mapping SourceColumn="EMHouseNumber" DataSetColumn="EMHouseNumber" />
+              <Mapping SourceColumn="EMMOO" DataSetColumn="EMMOO" />
+              <Mapping SourceColumn="EMSoi" DataSetColumn="EMSoi" />
+              <Mapping SourceColumn="EMRoad" DataSetColumn="EMRoad" />
+              <Mapping SourceColumn="EMDistrict" DataSetColumn="EMDistrict" />
+              <Mapping SourceColumn="EMCity" DataSetColumn="EMCity" />
+              <Mapping SourceColumn="EMProvince" DataSetColumn="EMProvince" />
+              <Mapping SourceColumn="EMPostCode" DataSetColumn="EMPostCode" />
+              <Mapping SourceColumn="EMPhone" DataSetColumn="EMPhone" />
+              <Mapping SourceColumn="EMPassword" DataSetColumn="EMPassword" />
+              <Mapping SourceColumn="EMID" DataSetColumn="EMID" />
+              <Mapping SourceColumn="EMBirth" DataSetColumn="EMBirth" />
+              <Mapping SourceColumn="EMDatein" DataSetColumn="EMDatein" />
+              <Mapping SourceColumn="DepName" DataSetColumn="DepName" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ViewEMPDEP" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ViewEMPDEP" msprop:Generator_UserDSName="ViewEMPDEP">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="view_empdep" msprop:Generator_TableClassName="view_empdepDataTable" msprop:Generator_TableVarName="tableview_empdep" msprop:Generator_TablePropName="view_empdep" msprop:Generator_RowDeletingName="view_empdepRowDeleting" msprop:Generator_RowChangingName="view_empdepRowChanging" msprop:Generator_RowEvHandlerName="view_empdepRowChangeEventHandler" msprop:Generator_RowDeletedName="view_empdepRowDeleted" msprop:Generator_UserTableName="view_empdep" msprop:Generator_RowChangedName="view_empdepRowChanged" msprop:Generator_RowEvArgName="view_empdepRowChangeEvent" msprop:Generator_RowClassName="view_empdepRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EMPDep" msprop:Generator_ColumnVarNameInTable="columnEMPDep" msprop:Generator_ColumnPropNameInRow="EMPDep" msprop:Generator_ColumnPropNameInTable="EMPDepColumn" msprop:Generator_UserColumnName="EMPDep" type="xs:int" minOccurs="0" />
+              <xs:element name="EMName" msprop:Generator_ColumnVarNameInTable="columnEMName" msprop:Generator_ColumnPropNameInRow="EMName" msprop:Generator_ColumnPropNameInTable="EMNameColumn" msprop:Generator_UserColumnName="EMName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMLName" msprop:Generator_ColumnVarNameInTable="columnEMLName" msprop:Generator_ColumnPropNameInRow="EMLName" msprop:Generator_ColumnPropNameInTable="EMLNameColumn" msprop:Generator_UserColumnName="EMLName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMIDCard" msprop:Generator_ColumnVarNameInTable="columnEMIDCard" msprop:Generator_ColumnPropNameInRow="EMIDCard" msprop:Generator_ColumnPropNameInTable="EMIDCardColumn" msprop:Generator_UserColumnName="EMIDCard" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMHouseNumber" msprop:Generator_ColumnVarNameInTable="columnEMHouseNumber" msprop:Generator_ColumnPropNameInRow="EMHouseNumber" msprop:Generator_ColumnPropNameInTable="EMHouseNumberColumn" msprop:Generator_UserColumnName="EMHouseNumber" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMMOO" msprop:Generator_ColumnVarNameInTable="columnEMMOO" msprop:Generator_ColumnPropNameInRow="EMMOO" msprop:Generator_ColumnPropNameInTable="EMMOOColumn" msprop:Generator_UserColumnName="EMMOO">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMSoi" msprop:Generator_ColumnVarNameInTable="columnEMSoi" msprop:Generator_ColumnPropNameInRow="EMSoi" msprop:Generator_ColumnPropNameInTable="EMSoiColumn" msprop:Generator_UserColumnName="EMSoi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMRoad" msprop:Generator_ColumnVarNameInTable="columnEMRoad" msprop:Generator_ColumnPropNameInRow="EMRoad" msprop:Generator_ColumnPropNameInTable="EMRoadColumn" msprop:Generator_UserColumnName="EMRoad" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMDistrict" msprop:Generator_ColumnVarNameInTable="columnEMDistrict" msprop:Generator_ColumnPropNameInRow="EMDistrict" msprop:Generator_ColumnPropNameInTable="EMDistrictColumn" msprop:Generator_UserColumnName="EMDistrict" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMCity" msprop:Generator_ColumnVarNameInTable="columnEMCity" msprop:Generator_ColumnPropNameInRow="EMCity" msprop:Generator_ColumnPropNameInTable="EMCityColumn" msprop:Generator_UserColumnName="EMCity" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMProvince" msprop:Generator_ColumnVarNameInTable="columnEMProvince" msprop:Generator_ColumnPropNameInRow="EMProvince" msprop:Generator_ColumnPropNameInTable="EMProvinceColumn" msprop:Generator_UserColumnName="EMProvince" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMPostCode" msprop:Generator_ColumnVarNameInTable="columnEMPostCode" msprop:Generator_ColumnPropNameInRow="EMPostCode" msprop:Generator_ColumnPropNameInTable="EMPostCodeColumn" msprop:Generator_UserColumnName="EMPostCode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMPhone" msprop:Generator_ColumnVarNameInTable="columnEMPhone" msprop:Generator_ColumnPropNameInRow="EMPhone" msprop:Generator_ColumnPropNameInTable="EMPhoneColumn" msprop:Generator_UserColumnName="EMPhone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMPassword" msprop:Generator_ColumnVarNameInTable="columnEMPassword" msprop:Generator_ColumnPropNameInRow="EMPassword" msprop:Generator_ColumnPropNameInTable="EMPasswordColumn" msprop:Generator_UserColumnName="EMPassword" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMID" msprop:Generator_ColumnVarNameInTable="columnEMID" msprop:Generator_ColumnPropNameInRow="EMID" msprop:Generator_ColumnPropNameInTable="EMIDColumn" msprop:Generator_UserColumnName="EMID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMBirth" msprop:Generator_ColumnVarNameInTable="columnEMBirth" msprop:Generator_ColumnPropNameInRow="EMBirth" msprop:Generator_ColumnPropNameInTable="EMBirthColumn" msprop:Generator_UserColumnName="EMBirth" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EMDatein" msprop:Generator_ColumnVarNameInTable="columnEMDatein" msprop:Generator_ColumnPropNameInRow="EMDatein" msprop:Generator_ColumnPropNameInTable="EMDateinColumn" msprop:Generator_UserColumnName="EMDatein" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DepName" msprop:Generator_ColumnVarNameInTable="columnDepName" msprop:Generator_ColumnPropNameInRow="DepName" msprop:Generator_ColumnPropNameInTable="DepNameColumn" msprop:Generator_UserColumnName="DepName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:view_empdep" />
+      <xs:field xpath="mstns:EMID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

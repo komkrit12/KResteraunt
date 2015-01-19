@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="vw_countorder" targetNamespace="http://tempuri.org/vw_countorder.xsd" xmlns:mstns="http://tempuri.org/vw_countorder.xsd" xmlns="http://tempuri.org/vw_countorder.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="KRestConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="KRestConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.KRest.My.MySettings.GlobalReference.Default.KRestConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vw_countorderTableAdapter" GeneratorDataComponentClassName="vw_countorderTableAdapter" Name="vw_countorder" UserDataComponentName="vw_countorderTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="KRestConnectionString (MySettings)" DbObjectName="KRest.dbo.vw_countorder" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT FoodName, FoodPrice, OrderID, OrderCode, OrderDate, OrderRemark, TID, OrderStatus, FoodID, unit FROM dbo.vw_countorder</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="FoodName" DataSetColumn="FoodName" />
+              <Mapping SourceColumn="FoodPrice" DataSetColumn="FoodPrice" />
+              <Mapping SourceColumn="OrderID" DataSetColumn="OrderID" />
+              <Mapping SourceColumn="OrderCode" DataSetColumn="OrderCode" />
+              <Mapping SourceColumn="OrderDate" DataSetColumn="OrderDate" />
+              <Mapping SourceColumn="OrderRemark" DataSetColumn="OrderRemark" />
+              <Mapping SourceColumn="TID" DataSetColumn="TID" />
+              <Mapping SourceColumn="OrderStatus" DataSetColumn="OrderStatus" />
+              <Mapping SourceColumn="FoodID" DataSetColumn="FoodID" />
+              <Mapping SourceColumn="unit" DataSetColumn="unit" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="vw_countorder" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="vw_countorder" msprop:Generator_UserDSName="vw_countorder">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vw_countorder" msprop:Generator_TableClassName="vw_countorderDataTable" msprop:Generator_TableVarName="tablevw_countorder" msprop:Generator_TablePropName="_vw_countorder" msprop:Generator_RowDeletingName="vw_countorderRowDeleting" msprop:Generator_RowChangingName="vw_countorderRowChanging" msprop:Generator_RowEvHandlerName="vw_countorderRowChangeEventHandler" msprop:Generator_RowDeletedName="vw_countorderRowDeleted" msprop:Generator_UserTableName="vw_countorder" msprop:Generator_RowChangedName="vw_countorderRowChanged" msprop:Generator_RowEvArgName="vw_countorderRowChangeEvent" msprop:Generator_RowClassName="vw_countorderRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FoodName" msprop:Generator_ColumnVarNameInTable="columnFoodName" msprop:Generator_ColumnPropNameInRow="FoodName" msprop:Generator_ColumnPropNameInTable="FoodNameColumn" msprop:Generator_UserColumnName="FoodName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FoodPrice" msprop:Generator_ColumnVarNameInTable="columnFoodPrice" msprop:Generator_ColumnPropNameInRow="FoodPrice" msprop:Generator_ColumnPropNameInTable="FoodPriceColumn" msprop:Generator_UserColumnName="FoodPrice" type="xs:int" minOccurs="0" />
+              <xs:element name="OrderID" msprop:Generator_ColumnVarNameInTable="columnOrderID" msprop:Generator_ColumnPropNameInRow="OrderID" msprop:Generator_ColumnPropNameInTable="OrderIDColumn" msprop:Generator_UserColumnName="OrderID" type="xs:int" />
+              <xs:element name="OrderCode" msprop:Generator_ColumnVarNameInTable="columnOrderCode" msprop:Generator_ColumnPropNameInRow="OrderCode" msprop:Generator_ColumnPropNameInTable="OrderCodeColumn" msprop:Generator_UserColumnName="OrderCode">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OrderDate" msprop:Generator_ColumnVarNameInTable="columnOrderDate" msprop:Generator_ColumnPropNameInRow="OrderDate" msprop:Generator_ColumnPropNameInTable="OrderDateColumn" msprop:Generator_UserColumnName="OrderDate" type="xs:dateTime" />
+              <xs:element name="OrderRemark" msprop:Generator_ColumnVarNameInTable="columnOrderRemark" msprop:Generator_ColumnPropNameInRow="OrderRemark" msprop:Generator_ColumnPropNameInTable="OrderRemarkColumn" msprop:Generator_UserColumnName="OrderRemark" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TID" msprop:Generator_ColumnVarNameInTable="columnTID" msprop:Generator_ColumnPropNameInRow="TID" msprop:Generator_ColumnPropNameInTable="TIDColumn" msprop:Generator_UserColumnName="TID" type="xs:int" minOccurs="0" />
+              <xs:element name="OrderStatus" msprop:Generator_ColumnVarNameInTable="columnOrderStatus" msprop:Generator_ColumnPropNameInRow="OrderStatus" msprop:Generator_ColumnPropNameInTable="OrderStatusColumn" msprop:Generator_UserColumnName="OrderStatus">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FoodID" msprop:Generator_ColumnVarNameInTable="columnFoodID" msprop:Generator_ColumnPropNameInRow="FoodID" msprop:Generator_ColumnPropNameInTable="FoodIDColumn" msprop:Generator_UserColumnName="FoodID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="unit" msprop:Generator_ColumnVarNameInTable="columnunit" msprop:Generator_ColumnPropNameInRow="unit" msprop:Generator_ColumnPropNameInTable="unitColumn" msprop:Generator_UserColumnName="unit" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:vw_countorder" />
+      <xs:field xpath="mstns:OrderID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

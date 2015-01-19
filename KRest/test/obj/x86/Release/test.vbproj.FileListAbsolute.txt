@@ -1,0 +1,4 @@
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Release\test.class_conn.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Release\test.frm_emp.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Release\test.Resources.resources
+C:\Users\komkrit\Desktop\งานรูป\test\test\obj\x86\Release\test.vbproj.GenerateResource.Cache
